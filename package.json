@@ -50,7 +50,7 @@
         "lodash": "latest",
         "mathjs": "latest",
         "moment": "^2.24.0",
-        "node-fetch": "^2.6.0",
+        "node-fetch": "^3.1.1",
         "node-opus": "^0.3.2",
         "reflect-metadata": "latest",
         "sodium": "^3.0.2",
