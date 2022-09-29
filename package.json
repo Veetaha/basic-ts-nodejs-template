@@ -42,7 +42,7 @@
         "typescript": "^3.5.0-dev.20190416"
     },
     "dependencies": {
-        "@hapi/joi": "^15.1.0",
+        "@hapi/joi": "^15.1.1",
         "colors": "latest",
         "discord.js": "^11.5.1",
         "dotenv": "latest",
